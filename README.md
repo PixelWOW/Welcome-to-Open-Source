@@ -72,7 +72,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Rishikesh More" />
                     <br />
                     <sub>
-                        <b>ARishikesh More</b>
+                        <b>Rishikesh More</b>
                     </sub>
                 </a>
             </td>
